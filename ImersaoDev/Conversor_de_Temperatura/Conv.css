@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 400px;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5a78ab8490badee028bef0e9/1568935524292-TPSLMXHD9HE6PKN02YOG/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/Interstellar.jpg?format=1500w');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center, bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    font-family: 'Fira Code';
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 400px;
+  }
+  
+  .alura-logo {
+    width: 80px;
+    position: absolute;
+    top: 10px;
+    right: 10px
+  }
+  
+  #resultado {
+    font-family: "New Tegomin", serif;
+    display: block;
+    color: darken;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  input {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: block;
+    height: 20px;
+  }
+  
+  button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-family: 'New Tegomin', serif;
+    font-size: 25px;
+    border-radius: 15%;
+    height: 40px;
+    width: 175px
+  }
