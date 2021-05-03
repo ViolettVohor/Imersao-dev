@@ -4,7 +4,7 @@ var nomeFilmes = ["Matrix", "One Piece", "Os Sem Floresta", "Scott Pilgrim Vs. T
 
 var url = ["https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_1", "https://www.imdb.com/title/tt0388629/?ref_=fn_al_tt_1", "https://www.imdb.com/title/tt0327084/?ref_=fn_al_tt_1", "https://www.imdb.com/title/tt0446029/?ref_=fn_al_tt_1"] 
 
-var filmeExibido = 7
+var filmeExibido = ""
 
 function exibirFilme(){
   var filme = parseInt(prompt("Qual Filme você quer? \n1-Matrix \n2-One Piece \n3-Os Sem Floresta \n4-Scott Pilgrim"))
